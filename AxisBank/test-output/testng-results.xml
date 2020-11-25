@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35860" started-at="2020-10-23T06:36:46Z" finished-at="2020-10-23T06:37:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35860" started-at="2020-10-23T06:36:46Z" finished-at="2020-10-23T06:37:22Z">
+      <class name="axisBank_TestCases.AxisBank_retail_FD_calculator_TC">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:axisBank_TestCases.AxisBank_retail_FD_calculator_TC@3ac3fd8b]" name="startBrowser" is-config="true" duration-ms="21994" started-at="2020-10-23T12:06:46Z" finished-at="2020-10-23T12:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="SalesTestDemo()[pri:0, instance:axisBank_TestCases.AxisBank_retail_FD_calculator_TC@3ac3fd8b]" name="SalesTestDemo" duration-ms="10840" started-at="2020-10-23T12:07:08Z" finished-at="2020-10-23T12:07:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SalesTestDemo -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:axisBank_TestCases.AxisBank_retail_FD_calculator_TC@3ac3fd8b]" name="quitBrowser" is-config="true" duration-ms="3005" started-at="2020-10-23T12:07:19Z" finished-at="2020-10-23T12:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- axisBank_TestCases.AxisBank_retail_FD_calculator_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
